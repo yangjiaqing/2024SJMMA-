@@ -11,7 +11,7 @@
 ## 需要配置 neo4j登录账号为：neo4j  密码：12345678
 ## 运行： Neo4j知识图谱.ipynb
 ## 结果如下图
-![image](https://github.com/yangjiaqing/2024SJMMA-/blob/main/%E4%B8%BA%E3%80%8A%E5%87%BA%E5%B8%88%E8%A1%A8%E3%80%8B%E7%94%9F%E6%88%90%E6%B3%A8%E9%87%8A%E4%BD%8D%E5%92%8C%E5%85%B7%E4%BD%93%E9%87%8A%E4%B9%89/%E6%B3%A8%E9%87%8A%E6%A0%87%E6%B3%A8%E5%9B%BE.jpg))
+![image](https://github.com/yangjiaqing/2024SJMMA-/blob/main/graph.png))
 
 # 诸葛亮传
 ## 进入sanguo文件夹
@@ -31,4 +31,4 @@
 
 ## 结果如下图
 
-![image](https://github.com/yangjiaqing/2024SJMMA-/blob/main/%E4%B8%BA%E3%80%8A%E5%87%BA%E5%B8%88%E8%A1%A8%E3%80%8B%E7%94%9F%E6%88%90%E6%B3%A8%E9%87%8A%E4%BD%8D%E5%92%8C%E5%85%B7%E4%BD%93%E9%87%8A%E4%B9%89/%E6%B3%A8%E9%87%8A%E6%A0%87%E6%B3%A8%E5%9B%BE.jpg))
+![image](https://github.com/yangjiaqing/2024SJMMA-/blob/main/sanguo_tu1.png))
